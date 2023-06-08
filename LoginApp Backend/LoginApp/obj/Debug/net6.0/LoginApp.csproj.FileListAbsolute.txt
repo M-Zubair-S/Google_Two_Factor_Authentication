@@ -1,0 +1,81 @@
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.exe
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.deps.json
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.pdb
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets\msbuild.LoginApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginApp.props
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginApp.props
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginApp.props
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\scopedcss\bundle\LoginApp.styles.css
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\refint\LoginApp.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.pdb
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\obj\Debug\net6.0\ref\LoginApp.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\Google.Authenticator.dll
+C:\Users\LENOVO\source\repos\LoginApp\LoginApp\bin\Debug\net6.0\QRCoder.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\appsettings.json
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.exe
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.deps.json
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.runtimeconfig.json
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\LoginApp.pdb
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\Google.Authenticator.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\QRCoder.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.csproj.AssemblyReference.cache
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.AssemblyInfoInputs.cache
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.AssemblyInfo.cs
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.csproj.CoreCompileInputs.cache
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets\msbuild.LoginApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginApp.props
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginApp.props
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginApp.props
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\scopedcss\bundle\LoginApp.styles.css
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.csproj.CopyComplete
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.dll
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\refint\LoginApp.dll
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.pdb
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\LoginApp.genruntimeconfig.cache
+D:\Google 2FA\LoginApp\LoginApp\obj\Debug\net6.0\ref\LoginApp.dll
+D:\Google 2FA\LoginApp\LoginApp\bin\Debug\net6.0\Newtonsoft.Json.dll
