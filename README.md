@@ -1,7 +1,5 @@
-# Google_Two_Factor_Authentication
-Google two factor Authentication using ASP.NET Core and React.js
-
 # Google Two Factor Authentication
+Google two factor Authentication using ASP.NET Core and React.js
 
 This project implements a two-factor authentication system using Google Authenticator. It consists of a frontend and backend component, with the backend built using ASP.NET Core Web API and MSSQL database, and the frontend developed using React.js. The frontend communicates with the backend using both AJAX and React Hooks.
 
